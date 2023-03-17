@@ -1,3 +1,2 @@
-My discord is TheySeeMeTrollingTheyHating#8390
-I am working on making open source games with Unity and learning Hugo to make websites
-I am not good at programming and I just do it for my own amusement and for personal projects
+Not a real real programmer just trying my best to make small little programs and small projects.
+I can barely code.
