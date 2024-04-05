@@ -1,1 +1,2 @@
-Not a real real programmer just trying my best to make small little programs and small projects.
+just kinda make things sometimes
+wouldn't consider myself a programmer
